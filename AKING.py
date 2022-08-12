@@ -14,7 +14,7 @@ logo = ("""\033[1;37m    ###    ##    ## #### ##    ##  ######  ❤
 (!) Guthub   : AKING110
 (!) Facebook : MR.AKING.07
 (!) Type     : PAID
-(!) Version  : 1.2.1
+(!) Version  : 1.2.2
 \033[1;37m(!)══════════════════════════════════════════""")
 
 def Run():
@@ -28,7 +28,7 @@ def Run():
 		if bit =='32bit':
 			import AKING32
 		elif bit =='64bit':
-			import AKING
+			import sallu
 	elif Aking =='2':
 		if bit =='32bit':
 			import BD32
