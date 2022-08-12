@@ -28,7 +28,7 @@ def Run():
 		if bit =='32bit':
 			import AKING32
 		elif bit =='64bit':
-			import AKING
+			import sallu
 	elif Aking =='2':
 		if bit =='32bit':
 			import BD32
